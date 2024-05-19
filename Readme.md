@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=birundha94&show_icons=true&locale=en" alt="birundha94" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=birundha94&" alt="birundha94" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=birundha94&bg_color=61565c&color=2a95cb&line=f5e5ec&point=f51978&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
