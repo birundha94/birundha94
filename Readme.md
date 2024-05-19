@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Birundha S</h1>
 <h3 align="left">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **I’m currently learning DSA and Full stack development course in Scaler Academy**
+- 🌱 **I’m currently learning DSA and Full stack development course in Scaler Academy**
 
 - 💬 Ask me about **HTML,CSS,JS AND DSA**
 
